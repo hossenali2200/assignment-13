@@ -21,11 +21,13 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
               navbarScroll
             >
               <Nav.Link href="#action1">Home</Nav.Link>
-              <Nav.Link href="#action2">Content</Nav.Link>
-              <Nav.Link href="#action3">Sidebar</Nav.Link>
+              <Nav.Link href="#action2">About</Nav.Link>
+              <Nav.Link href="#action3">Project</Nav.Link>
+              <Nav.Link href="#action4">Service</Nav.Link>
+              <Nav.Link href="#action5">Blog</Nav.Link>
               
               <Nav.Link href="#">
-                Footer
+                Contact
               </Nav.Link>
             </Nav>
             <Form className="d-flex">
