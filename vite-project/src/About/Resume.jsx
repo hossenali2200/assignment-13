@@ -34,7 +34,7 @@ class Resume extends Component {
         checked={false}
         onlabel='Eng'
         offlabel='Fin'
-        checked={true}
+         
         size="lg"
         onstyle="dark" offstyle="light"
         onChange={() => {
